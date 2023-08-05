@@ -1,0 +1,82 @@
+﻿  Source.cpp
+C:\Users\Jacob\Desktop\CS330Mod8\includes\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\includes\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\includes\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\includes\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\includes\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\includes\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Jacob\Desktop\CS330Mod8\includes\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(23,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(92,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(99,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(100,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(206,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(312,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(313,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(314,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(320,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(321,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(322,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(328,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(329,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(330,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(336,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(337,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(338,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(346,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(351,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(366,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(367,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(368,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(369,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(370,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(371,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(372,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(373,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(374,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(376,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(377,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(378,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(379,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(380,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(381,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(383,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(384,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(385,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(386,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(387,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(388,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(390,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(391,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(392,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(393,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(394,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(395,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(397,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(398,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(399,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(400,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(401,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(402,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(404,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(405,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(406,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(407,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(409,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(410,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(411,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(412,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(413,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(531,2): warning C4551: function call missing argument list
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(549,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(557,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Jacob\Desktop\CS330Mod8\module_eight\Source.cpp(564,20): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  1 of 133 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  module_eight.vcxproj -> C:\Users\Jacob\Desktop\CS330Mod8\Release\module_eight.exe
+  C:\Users\Jacob\Desktop\CS330Mod8\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
